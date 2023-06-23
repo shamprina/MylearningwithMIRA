@@ -1,6 +1,7 @@
 hello mira
-<<<<<<< HEAD
+
 I'm good
-=======
+
 how are you
->>>>>>> 656d6e2299b7a64014466eea1e378757310cdb68
+
+its drizzling today
