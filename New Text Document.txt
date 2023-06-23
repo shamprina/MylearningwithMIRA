@@ -4,5 +4,9 @@ I'm good
 
 how are you
 
+<<<<<<< HEAD
  its such a nice weather today
 
+=======
+its drizzling today
+>>>>>>> 3760fa7506bda36e147eae0a19acf91f0a04e7f2
